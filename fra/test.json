@@ -1,5 +1,6 @@
 {
   "MyString": "Une chaîne",
-  "NewString": "Une nouvelle chaîne",
-  "Otherstring": "Une autre chaîne"
+  "NewString": "A new string",
+  "Otherstring": "Another stirng",
+  "OneMoreString": "One more string"
 }
